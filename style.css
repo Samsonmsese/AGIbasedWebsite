@@ -59,7 +59,7 @@ header .logo h1 {
 /* Hero Section */
 .hero {
   background-image: url('header-background.jpg'); /* Add a hero background image */
-  background-size: cover;
+  background-size: medium;
   padding: 100px 20px;
   text-align: center;
   color: hwb(204 89% 9% / 0.926)
